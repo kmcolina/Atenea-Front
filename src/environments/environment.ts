@@ -14,4 +14,5 @@ export const environment = {
   baseApiAuth: 'https://glupdesign.com/api/auth/',
   keyUsers: 'fwer345g34fk4jh5k34h34jgf4hjfdj345',
   sessionToken: 'fwefwefwefwewewefrg3454k34k5gger',
+  prueba: 'fewfwefwefwefwef'
 };

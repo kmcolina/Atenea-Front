@@ -1,4 +1,5 @@
 @import './scss/main.scss';
+
 /* You can add global styles to this file, and also import other style files */
 @import url('https://fonts.googleapis.com/css?family=Ubuntu');
 
@@ -133,6 +134,10 @@ line-height: 21px;
     align-items: center;
     gap: 50px;
   }
+ 
+/* Importing Bootstrap SCSS file. */
+@import '~bootstrap/scss/bootstrap';
+
  
 /* Importing Bootstrap SCSS file. */
 @import '~bootstrap/scss/bootstrap';
